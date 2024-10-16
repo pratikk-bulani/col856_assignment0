@@ -1,0 +1,1 @@
+g++ main.cpp -O3 -I/usr/include/eigen3/ -lGLU -lGL -lglfw -o main
