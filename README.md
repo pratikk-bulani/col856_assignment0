@@ -15,3 +15,5 @@ bash compile.sh
 ## Output
 
 A flag should be visible. Rotate the view using mouse. WASD keyboard shortcuts can be used to change the view.
+
+Video output: https://youtu.be/tG8jZnlnNNw
